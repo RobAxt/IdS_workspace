@@ -1,5 +1,5 @@
 /************************************************************************************************
-Copyright (c) 2023, Esteban Volentini <evolentini@herrera.unt.edu.ar>
+Copyright (c) 2024, Roberto Axt <roberto.axt@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
@@ -22,8 +22,8 @@ SPDX-License-Identifier: MIT
 #ifndef MAIN_H
 #define MAIN_H
 
-/** @file
- ** @brief Definición de la función principal del programa
+/** @file main.h
+ ** @brief Declaración de la función principal del programa
  **/
 
 /* === Headers files inclusions ================================================================ */
@@ -41,8 +41,6 @@ extern "C" {
 /* === Public variable declarations ============================================================ */
 
 /* === Public function declarations ============================================================ */
-
-/* Comentario normal */
 
 /**
  * @brief Función principal del sistema, se ejecuta al iniciar el programa
